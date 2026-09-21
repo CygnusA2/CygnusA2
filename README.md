@@ -11,7 +11,7 @@ This ecosystem hosts our proprietary research (**Antigravity**) and our deployed
 | **Asset** | **Description** | **Link** |
 | :--- | :--- | :--- |
 | **📄 White Paper & Research** | Deep dive into our Causal AI architecture, Bayesian networks, and LLM integration. | [**View Research Repository**](https://github.com/CygnusA2/Antigravity-Causal-Research) |
-| **💻 Application Core** | The production codebase built on Replit, featuring Daml smart contracts for atomic transactions. | [**View App Code**](https://github.com/CygnusA2/Cygnus-Replit-App) |
+| **💻 Application Core** | Public Vault Private MVP built on Replit, demonstrating the client journey from onboarding and AI-assisted asset verification to tokenization simulation and liquidity access. | [**View Vault Private Prototype**](https://github.com/CygnusA2/Vault-Private-Prototype) |
 
 ---
 
