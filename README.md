@@ -22,7 +22,7 @@ The objective is not to make an LLM the source of truth. Cygnus-A² separates pr
 
 | Asset | Description | Link |
 | :--- | :--- | :--- |
-| **Vault Private Prototype** | Public MVP demonstrating the client journey from onboarding and AI-assisted asset verification through tokenization simulation and liquidity access. | [View Repository](https://github.com/CygnusA2/Vault-Private-Prototype) |
+| **Vault Private** | The intended external-user iOS TestFlight MVP. Persona, Plaid, and other API work is staged for testing in the private E2E project before promotion. The public source currently includes simulated tokenization and liquidity journeys; live real-estate tokenization and funded liquidity are later phases. | [View Repository](https://github.com/CygnusA2/Vault-Private-Prototype) |
 | **Antigravity Causal Research** | Public research repository covering the causal-intelligence direction behind Cygnus-A², including graph-grounded reasoning and institutional digital-asset architecture. | [View Repository](https://github.com/CygnusA2/Antigravity-Causal-Research) |
 
 ---
